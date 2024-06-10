@@ -1,2 +1,2 @@
 # rust
-Learning Rust
+Anything and Everything related to Rust core concepts
